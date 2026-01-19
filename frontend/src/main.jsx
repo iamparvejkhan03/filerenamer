@@ -28,7 +28,7 @@ import PrivacyPolicy from "./pages/PrivacyPolicy.jsx";
 import TermsAndConditions from "./pages/TermsAndConditions.jsx";
 import FAQs from "./pages/FAQs.jsx";
 import HowItWorks from "./pages/HowItWorks.jsx";
-import Changelog from "./pages/ChangeLog.jsx";
+import Changelog from "./pages/Changelog.jsx";
 import Comparison from "./pages/Comparison.jsx";
 
 createRoot(document.getElementById('root')).render(
